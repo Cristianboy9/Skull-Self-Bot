@@ -1,4 +1,7 @@
-## SELFBOT DISCORD CREADO CON PYTHON
+## SELFBOT DISCORD CREADO CON PYTHON FUNCIONAL EN REPLIT
+
+Selecciona main.py si te pregunta
+
 
 Creado por ᴱʳᴿʳᵒᴿ⁴⁰⁴
 
